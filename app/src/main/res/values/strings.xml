@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">GeOdyssey</string>
+    <string name="player_name">Spieler*innenname</string>
+    <string name="continue_button">Weiter</string>
+
+    <string name="classic_mode">Klassischer Modus</string>
+    <string name="historical_mode">Historischer Modus</string>
+    <string name="change_name">Name ändern</string>
+
+    <string name="start_name_question">Wie heißt du?</string>
+    <string name="start_name_description">Dein Name wird für das Leaderboard verwendet.</string>
+    <string name="start_button">Starten</string>
+    <string name="start_adventure_hint">Dein Abenteuer beginnt jetzt.</string>
+
+    <string name="mode_classic">Klassisch</string>
+    <string name="mode_historical">Historisch</string>
+
+    <string name="menu_classic_title">Klassisch starten</string>
+    <string name="menu_classic_description">Den Ort erraten</string>
+    <string name="menu_historical_title">Historisch starten</string>
+    <string name="menu_historical_description">Ort und Jahr erraten</string>
+    <string name="menu_leaderboard_description">Bestenliste ansehen</string>
+    <string name="menu_tutorial_description">Spielregeln lernen</string>
+
+    <string name="game_round_counter">Guess %1$d / %2$d</string>
+    <string name="game_remaining_time">%1$d s</string>
+    <string name="game_image_description">Bild für den aktuellen Guess</string>
+    <string name="game_image_error">Bild konnte nicht geladen werden.</string>
+    <string name="game_hint_title">Hinweis</string>
+    <string name="game_hint_button">Hint (-%1$d Punkte)</string>
+    <string name="game_year_title">Jahr schätzen</string>
+    <string name="game_year_label">Jahr</string>
+    <string name="game_before_christ">v. Chr.</string>
+    <string name="game_after_christ">n. Chr.</string>
+    <string name="game_location_title">Standort wählen</string>
+    <string name="game_location_instruction">Tippe auf die Karte, um deinen Guess zu setzen.</string>
+    <string name="game_submit_guess">Guess bestätigen</string>
+
+    <string name="round_result_title">Rundenergebnis</string>
+    <string name="round_result_correct_location">Richtiger Ort</string>
+    <string name="round_result_correct_year">Richtiges Jahr: %1$s</string>
+    <string name="round_result_event">Ereignis: %1$s</string>
+    <string name="round_result_distance">Entfernung</string>
+    <string name="round_result_distance_km">%1$s km</string>
+    <string name="round_result_map_legend">Orange: dein Guess   •   Grün: richtiger Standort</string>
+    <string name="round_result_no_guess_title">Kein Guess abgegeben</string>
+    <string name="round_result_no_guess_text">Die Zeit ist abgelaufen, bevor ein Standort ausgewählt wurde.</string>
+    <string name="round_result_points">Punkte dieser Runde</string>
+    <string name="round_result_points_value">%1$d Punkte</string>
+
+    <string name="end_result_title">Spiel beendet</string>
+    <string name="end_result_score_title">Gesamtergebnis</string>
+    <string name="end_result_score_max">von %1$d Punkten</string>
+    <string name="end_result_score_excellent">Hervorragend!</string>
+    <string name="end_result_score_very_good">Sehr gutes Ergebnis!</string>
+    <string name="end_result_score_good">Gut gespielt!</string>
+    <string name="end_result_score_solid">Solides Ergebnis!</string>
+    <string name="end_result_score_try_again">Beim nächsten Mal wird es besser!</string>
+    <string name="end_result_play_again">Erneut spielen</string>
+    <string name="end_result_back_to_menu">Zurück zum Menü</string>
+    <string name="highscore_trophy_description">Trophäe für einen neuen persönlichen Highscore</string>
+
+    <string name="leaderboard_title">Leaderboard</string>
+    <string name="leaderboard_subtitle">Die besten GeOdyssey Spieler*innen</string>
+    <string name="leaderboard_classic_title">Klassisches Leaderboard</string>
+    <string name="leaderboard_historical_title">Historisches Leaderboard</string>
+    <string name="leaderboard_empty">Noch keine Highscores vorhanden.</string>
+    <string name="leaderboard_back">Zurück</string>
+    <string name="leaderboard_position">%1$d.</string>
+    <string name="leaderboard_player_tag">%1$s #%2$s</string>
+    <string name="leaderboard_first_place">1. Platz</string>
+    <string name="leaderboard_second_place">2. Platz</string>
+    <string name="leaderboard_third_place">3. Platz</string>
+    <string name="leaderboard_score">%1$d</string>
+
+    <string name="tutorial_title">Tutorial</string>
+    <string name="tutorial_subtitle">So wird GeOdyssey gespielt</string>
+    <string name="tutorial_back">Zurück</string>
+    <string name="game_fullscreen_close">Schließen</string>
+    <string name="game_fullscreen_image_description">Historisches Bild in Vollbildansicht</string>
+    <string name="tutorial_classic_location_title">1. Ort erkennen</string>
+    <string name="tutorial_classic_location_text">Du bekommst ein Bild eines Ortes angezeigt. Untersuche das Bild und überlege, wo auf der Welt es aufgenommen wurde.</string>
+    <string name="tutorial_classic_map_title">2. Standort setzen</string>
+    <string name="tutorial_classic_map_text">Tippe auf die Weltkarte, um deinen vermuteten Standort zu markieren. Du kannst die Karte verschieben und zoomen.</string>
+    <string name="tutorial_classic_time_title">3. Zeit beachten</string>
+    <string name="tutorial_classic_time_text">Für jeden Guess hast du 60 Sekunden Zeit. Je schneller du einen guten Guess abgibst, desto mehr Zeitpunkte kannst du erhalten.</string>
+    <string name="tutorial_classic_hint_title">4. Hint verwenden</string>
+    <string name="tutorial_classic_hint_text">Du kannst pro Guess einen Hinweis verwenden. Ein verwendeter Hint kostet %1$d Punkte.</string>
+    <string name="tutorial_classic_points_title">5. Punkte sammeln</string>
+    <string name="tutorial_classic_points_text">Deine Punkte hängen von der Entfernung zum richtigen Standort und von deiner verbleibenden Zeit ab. Pro Runde sind maximal %1$d Punkte möglich.</string>
+    <string name="tutorial_historical_location_title">1. Historisches Ereignis erkennen</string>
+    <string name="tutorial_historical_location_text">Du bekommst ein historisches Bild, eine Darstellung oder eine Rekonstruktion angezeigt. Überlege, welches Ereignis oder welcher Ort dargestellt wird.</string>
+    <string name="tutorial_historical_map_title">2. Standort setzen</string>
+    <string name="tutorial_historical_map_text">Markiere auf der Weltkarte den Ort, an dem das historische Ereignis stattgefunden hat.</string>
+    <string name="tutorial_historical_year_title">3. Jahr schätzen</string>
+    <string name="tutorial_historical_year_text">Zusätzlich zum Standort musst du das Jahr einschätzen. Über die Auswahl v. Chr. oder n. Chr. kannst du auch sehr frühe historische Ereignisse eingeben.</string>
+    <string name="tutorial_historical_time_title">4. Kein Zeitlimit</string>
+    <string name="tutorial_historical_time_text">Im historischen Modus gibt es kein Zeitlimit. Du kannst Bild, Standort und Jahr in Ruhe einschätzen.</string>
+    <string name="tutorial_historical_hint_title">5. Hint verwenden</string>
+    <string name="tutorial_historical_hint_text">Auch hier kannst du pro Guess einen Hinweis verwenden. Ein verwendeter Hint kostet %1$d Punkte.</string>
+    <string name="tutorial_historical_points_title">6. Punkte sammeln</string>
+    <string name="tutorial_historical_points_text">Die Punktzahl setzt sich aus deiner Entfernung zum richtigen Standort und der Abweichung vom richtigen Jahr zusammen. Pro Runde sind maximal %1$d Punkte möglich.</string>
+
+</resources>

@@ -1,0 +1,603 @@
+<?xml version='1.0' encoding='utf-8'?>
+<standorte typ="klassisch" anzahl="50">
+  <standort id="klassisch_001">
+    <ort>Kölner Dom</ort>
+    <land>Deutschland</land>
+    <kategorie>Religiöser Ort</kategorie>
+    <hinweis>Gotische Architektur und zwei besonders hohe Türme prägen die Silhouette.</hinweis>
+    <quelle>Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 DE &lt;https://creativecommons.org/licenses/by-sa/3.0/de/deed.en&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_001_koelner_dom" />
+    <koordinaten>
+      <longitude>6.9583</longitude>
+      <latitude>50.9413</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_002">
+    <ort>Schloss Neuschwanstein</ort>
+    <land>Deutschland</land>
+    <kategorie>Bauwerk</kategorie>
+    <hinweis>Märchenhafte Türme treffen auf eine eindrucksvolle Bergkulisse.</hinweis>
+    <quelle>Wilfredor, CC0, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_002_schloss_neuschwanstein" />
+    <koordinaten>
+      <longitude>10.7498</longitude>
+      <latitude>47.5576</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_003">
+    <ort>Brandenburger Tor</ort>
+    <land>Deutschland</land>
+    <kategorie>Bauwerk</kategorie>
+    <hinweis>Ein monumentales klassizistisches Tor mit mehreren Durchgängen steht im Mittelpunkt.</hinweis>
+    <quelle>Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_003_brandenburger_tor" />
+    <koordinaten>
+      <longitude>13.3777</longitude>
+      <latitude>52.5163</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_004">
+    <ort>Eiffelturm</ort>
+    <land>Frankreich</land>
+    <kategorie>Bauwerk</kategorie>
+    <hinweis>Eine offene Eisenkonstruktion ragt weit über die umliegende Stadt hinaus.</hinweis>
+    <quelle>Benh LIEU SONG, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_004_eiffelturm" />
+    <koordinaten>
+      <longitude>2.2945</longitude>
+      <latitude>48.8584</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_005">
+    <ort>Mont Saint Michel</ort>
+    <land>Frankreich</land>
+    <kategorie>Insel / Religiöser Ort</kategorie>
+    <hinweis>Eine historische Klosteranlage erhebt sich auf einer vom Meer umgebenen Felseninsel.</hinweis>
+    <quelle>Lynx1211, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_005_mont_saint_michel" />
+    <koordinaten>
+      <longitude>-1.5115</longitude>
+      <latitude>48.6361</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_006">
+    <ort>Kolosseum</ort>
+    <land>Italien</land>
+    <kategorie>Archäologische Stätte</kategorie>
+    <hinweis>Mehrere Ebenen aus Arkaden verraten ein gewaltiges Amphitheater aus der Antike.</hinweis>
+    <quelle>© Anil Öztas, CC BY 4.0 &lt;https://creativecommons.org/licenses/by/4.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_006_kolosseum" />
+    <koordinaten>
+      <longitude>12.4922</longitude>
+      <latitude>41.8902</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_007">
+    <ort>Venedig, Canal Grande</ort>
+    <land>Italien</land>
+    <kategorie>Stadtviertel / Gewässer</kategorie>
+    <hinweis>Wasserstraßen, Brücken und dicht stehende historische Häuser bestimmen das Bild.</hinweis>
+    <quelle>kallerna, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_007_venedig_canal_grande" />
+    <koordinaten>
+      <longitude>12.3358</longitude>
+      <latitude>45.4379</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_008">
+    <ort>Petersplatz</ort>
+    <land>Vatikanstadt</land>
+    <kategorie>Platz / Religiöser Ort</kategorie>
+    <hinweis>Ein großer Platz wird von geschwungenen Kolonnaden und religiöser Architektur eingerahmt.</hinweis>
+    <quelle>Diliff, CC BY-SA 3.0 &lt;http://creativecommons.org/licenses/by-sa/3.0/&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_008_petersplatz" />
+    <koordinaten>
+      <longitude>12.4573</longitude>
+      <latitude>41.9022</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_009">
+    <ort>Santorini, Oia</ort>
+    <land>Griechenland</land>
+    <kategorie>Insel / Küste</kategorie>
+    <hinweis>Helle Häuser liegen dicht an steilen Hängen über dem Meer.</hinweis>
+    <quelle>Norbert Nagel, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_009_santorini_oia" />
+    <koordinaten>
+      <longitude>25.3753</longitude>
+      <latitude>36.4618</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_010">
+    <ort>Akropolis von Athen</ort>
+    <land>Griechenland</land>
+    <kategorie>Archäologische Stätte</kategorie>
+    <hinweis>Monumentale Tempelreste befinden sich auf einer weithin sichtbaren Anhöhe.</hinweis>
+    <quelle>Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 DE &lt;https://creativecommons.org/licenses/by-sa/3.0/de/deed.en&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_010_akropolis_von_athen" />
+    <koordinaten>
+      <longitude>23.7267</longitude>
+      <latitude>37.9715</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_011">
+    <ort>Sagrada Família</ort>
+    <land>Spanien</land>
+    <kategorie>Religiöser Ort</kategorie>
+    <hinweis>Ungewöhnliche Türme und organisch wirkende Formen machen die Architektur unverwechselbar.</hinweis>
+    <quelle>Bernard Gagnon, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_011_sagrada_familia" />
+    <koordinaten>
+      <longitude>2.1744</longitude>
+      <latitude>41.4036</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_012">
+    <ort>Alhambra</ort>
+    <land>Spanien</land>
+    <kategorie>Historisches Bauwerk</kategorie>
+    <hinweis>Verzierte Palasträume, Innenhöfe, Gärten und Wasserflächen gehören zu dieser Anlage.</hinweis>
+    <quelle>Jebulon, CC0, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_012_alhambra" />
+    <koordinaten>
+      <longitude>-3.5881</longitude>
+      <latitude>37.1761</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_013">
+    <ort>Tower Bridge</ort>
+    <land>Großbritannien</land>
+    <kategorie>Infrastruktur</kategorie>
+    <hinweis>Zwei markante Türme sind Teil einer großen beweglichen Brückenkonstruktion.</hinweis>
+    <quelle>Diliff, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_013_tower_bridge" />
+    <koordinaten>
+      <longitude>-0.0754</longitude>
+      <latitude>51.5055</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_014">
+    <ort>Stonehenge</ort>
+    <land>Großbritannien</land>
+    <kategorie>Archäologische Stätte</kategorie>
+    <hinweis>Große aufgerichtete Steine bilden einen rätselhaften Kreis in offener Landschaft.</hinweis>
+    <quelle>Sumit Surai, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_014_stonehenge" />
+    <koordinaten>
+      <longitude>-1.8262</longitude>
+      <latitude>51.1789</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_015">
+    <ort>Hallstatt</ort>
+    <land>Österreich</land>
+    <kategorie>Landschaft / Ort</kategorie>
+    <hinweis>Ein kleiner Ort liegt eingezwängt zwischen einem See und steilen Bergen.</hinweis>
+    <quelle>C.Stadler/Bwag, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_015_hallstatt" />
+    <koordinaten>
+      <longitude>13.6493</longitude>
+      <latitude>47.5622</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_016">
+    <ort>Matterhorn</ort>
+    <land>Schweiz</land>
+    <kategorie>Natur</kategorie>
+    <hinweis>Ein nahezu pyramidenförmiger Gipfel dominiert die alpine Landschaft.</hinweis>
+    <quelle>Liridon, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_016_matterhorn" />
+    <koordinaten>
+      <longitude>7.6586</longitude>
+      <latitude>45.9763</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_017">
+    <ort>Preikestolen</ort>
+    <land>Norwegen</land>
+    <kategorie>Natur / Fjord</kategorie>
+    <hinweis>Eine fast senkrechte Felsplattform bietet einen weiten Blick über tief eingeschnittenes Wasser.</hinweis>
+    <quelle>Svein-Magne Tunli, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_017_preikestolen" />
+    <koordinaten>
+      <longitude>6.1904</longitude>
+      <latitude>58.9864</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_018">
+    <ort>Kirkjufell</ort>
+    <land>Island</land>
+    <kategorie>Natur</kategorie>
+    <hinweis>Ein auffällig geformter Berg erhebt sich unmittelbar nahe der Küste.</hinweis>
+    <quelle>Anjali Kiggal, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_018_kirkjufell" />
+    <koordinaten>
+      <longitude>-23.3069</longitude>
+      <latitude>64.9417</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_019">
+    <ort>Golden Gate Bridge</ort>
+    <land>USA</land>
+    <kategorie>Infrastruktur</kategorie>
+    <hinweis>Eine riesige Hängebrücke überspannt eine breite Meeresstraße in Nordamerika.</hinweis>
+    <quelle>Cary Bass, CC BY-SA 3.0 &lt;http://creativecommons.org/licenses/by-sa/3.0/&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_019_golden_gate_bridge" />
+    <koordinaten>
+      <longitude>-122.4783</longitude>
+      <latitude>37.8199</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_020">
+    <ort>Times Square</ort>
+    <land>USA</land>
+    <kategorie>Platz / Stadtviertel</kategorie>
+    <hinweis>Leuchtreklamen, große Bildschirme und Menschenmengen bestimmen diese urbane Szene.</hinweis>
+    <quelle>Terabass, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_020_times_square" />
+    <koordinaten>
+      <longitude>-73.9855</longitude>
+      <latitude>40.758</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_021">
+    <ort>Grand Canyon, Mather Point</ort>
+    <land>USA</land>
+    <kategorie>Natur</kategorie>
+    <hinweis>Tiefe Schluchten und zahlreiche sichtbare Gesteinsschichten prägen die Landschaft Nordamerikas.</hinweis>
+    <quelle>Bigmacthealmanac, CC BY 4.0 &lt;https://creativecommons.org/licenses/by/4.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_021_grand_canyon_mather_point" />
+    <koordinaten>
+      <longitude>-112.1129</longitude>
+      <latitude>36.0619</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_022">
+    <ort>Monument Valley</ort>
+    <land>USA</land>
+    <kategorie>Natur</kategorie>
+    <hinweis>Isolierte rote Tafelberge ragen aus einer trockenen Ebene in Nordamerika.</hinweis>
+    <quelle>King of Hearts, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_022_monument_valley" />
+    <koordinaten>
+      <longitude>-110.0986</longitude>
+      <latitude>36.998</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_023">
+    <ort>Yellowstone, Grand Prismatic Spring</ort>
+    <land>USA</land>
+    <kategorie>Naturphänomen</kategorie>
+    <hinweis>Intensive Farben und geothermische Aktivität prägen diesen Ort in Nordamerika.</hinweis>
+    <quelle>Brocken Inaglory, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_023_yellowstone_grand_prismatic_spring" />
+    <koordinaten>
+      <longitude>-110.8382</longitude>
+      <latitude>44.5251</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_024">
+    <ort>Niagarafälle</ort>
+    <land>Kanada / USA</land>
+    <kategorie>Naturphänomen</kategorie>
+    <hinweis>Enorme Wassermengen stürzen über mehrere breite Felskanten in Nordamerika.</hinweis>
+    <quelle>Saffron Blaze, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_024_niagarafaelle" />
+    <koordinaten>
+      <longitude>-79.0742</longitude>
+      <latitude>43.0799</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_025">
+    <ort>Lake Louise</ort>
+    <land>Kanada</land>
+    <kategorie>Natur</kategorie>
+    <hinweis>Türkisfarbenes Wasser liegt vor einer hochalpinen Bergkulisse in Nordamerika.</hinweis>
+    <quelle>Dietmar Rabich / Wikimedia Commons / “Banff National Park (AB, Canada), Lake Louise -- 2022 -- 2200” / CC BY-SA 4.0For print products: Dietmar Rabich / https://commons.wikimedia.org/wiki/File:Banff_National_Park_(AB,_Canada),_Lake_Louise_--_2022_--_2200.jpg / https://creativecommons.org/licenses/by-sa/4.0/</quelle>
+    <bild resource="@drawable/klassisch_025_lake_louise" />
+    <koordinaten>
+      <longitude>-116.1773</longitude>
+      <latitude>51.4254</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_026">
+    <ort>Chichén Itzá</ort>
+    <land>Mexiko</land>
+    <kategorie>Archäologische Stätte</kategorie>
+    <hinweis>Eine große präkolumbische Stufenpyramide bildet das Zentrum der Anlage.</hinweis>
+    <quelle>Daniel Schwen, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_026_chichen_itza" />
+    <koordinaten>
+      <longitude>-88.5678</longitude>
+      <latitude>20.6843</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_027">
+    <ort>Tikal</ort>
+    <land>Guatemala</land>
+    <kategorie>Archäologische Stätte</kategorie>
+    <hinweis>Hohe steinerne Tempelbauten ragen über dichte tropische Vegetation hinaus.</hinweis>
+    <quelle>chensiyuan, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_027_tikal" />
+    <koordinaten>
+      <longitude>-89.6237</longitude>
+      <latitude>17.222</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_028">
+    <ort>Panamakanal, Miraflores Schleusen</ort>
+    <land>Panama</land>
+    <kategorie>Infrastruktur</kategorie>
+    <hinweis>Große Schiffe werden mithilfe gewaltiger Schleusenkammern angehoben und abgesenkt.</hinweis>
+    <quelle>Stan Shebs, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_028_panamakanal_miraflores_schleusen" />
+    <koordinaten>
+      <longitude>-79.5999</longitude>
+      <latitude>9.0802</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_029">
+    <ort>Cristo Redentor</ort>
+    <land>Brasilien</land>
+    <kategorie>Religiöser Ort</kategorie>
+    <hinweis>Eine monumentale religiöse Figur steht auf einem hoch gelegenen Aussichtspunkt in Südamerika.</hinweis>
+    <quelle>Arne Müseler / www.arne-mueseler.com, CC BY-SA 3.0 DE &lt;https://creativecommons.org/licenses/by-sa/3.0/de/deed.en&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_029_cristo_redentor" />
+    <koordinaten>
+      <longitude>-43.2105</longitude>
+      <latitude>-22.9519</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_030">
+    <ort>Machu Picchu</ort>
+    <land>Peru</land>
+    <kategorie>Archäologische Stätte</kategorie>
+    <hinweis>Historische Steinbauten verteilen sich über Terrassen in steiler grüner Berglandschaft.</hinweis>
+    <quelle>T029248, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_030_machu_picchu" />
+    <koordinaten>
+      <longitude>-72.545</longitude>
+      <latitude>-13.1631</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_031">
+    <ort>Salar de Uyuni</ort>
+    <land>Bolivien</land>
+    <kategorie>Naturphänomen</kategorie>
+    <hinweis>Eine riesige helle Ebene kann sich nach Regen in eine nahezu perfekte Spiegelfläche verwandeln.</hinweis>
+    <quelle>Diego Delso, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_031_salar_de_uyuni" />
+    <koordinaten>
+      <longitude>-67.4891</longitude>
+      <latitude>-20.1338</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_032">
+    <ort>Perito Moreno Gletscher</ort>
+    <land>Argentinien</land>
+    <kategorie>Natur</kategorie>
+    <hinweis>Eine mächtige Gletscherfront endet direkt an einem großen Gewässer in Südamerika.</hinweis>
+    <quelle>Diego Delso, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_032_perito_moreno_gletscher" />
+    <koordinaten>
+      <longitude>-73.0487</longitude>
+      <latitude>-50.4967</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_033">
+    <ort>Pyramiden von Gizeh</ort>
+    <land>Ägypten</land>
+    <kategorie>Archäologische Stätte</kategorie>
+    <hinweis>Monumentale steinerne Grabbauten stehen am Rand einer trockenen Landschaft in Afrika.</hinweis>
+    <quelle>Matthias Bethke, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_033_pyramiden_von_gizeh" />
+    <koordinaten>
+      <longitude>31.1342</longitude>
+      <latitude>29.9792</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_034">
+    <ort>Sahara bei Merzouga</ort>
+    <land>Marokko</land>
+    <kategorie>Natur</kategorie>
+    <hinweis>Sehr hohe orangefarbene Sanddünen bestimmen die Landschaft Afrikas.</hinweis>
+    <quelle>Kdouri omar, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_034_sahara_bei_merzouga" />
+    <koordinaten>
+      <longitude>-4.0128</longitude>
+      <latitude>31.0994</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_035">
+    <ort>Kilimandscharo</ort>
+    <land>Tansania</land>
+    <kategorie>Natur</kategorie>
+    <hinweis>Ein sehr hoher freistehender Berg durchläuft mehrere deutlich verschiedene Vegetationszonen.</hinweis>
+    <quelle>© Sergey Pesterev / Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_035_kilimandscharo" />
+    <koordinaten>
+      <longitude>37.3556</longitude>
+      <latitude>-3.0674</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_036">
+    <ort>Victoriafälle</ort>
+    <land>Sambia / Simbabwe</land>
+    <kategorie>Naturphänomen</kategorie>
+    <hinweis>Ein extrem breiter Wasserfall stürzt über eine lange Felskante in eine enge Schlucht.</hinweis>
+    <quelle>Diego Delso, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_036_victoriafaelle" />
+    <koordinaten>
+      <longitude>25.8572</longitude>
+      <latitude>-17.9243</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_037">
+    <ort>Tafelberg</ort>
+    <land>Südafrika</land>
+    <kategorie>Natur / Stadt</kategorie>
+    <hinweis>Eine auffällig flache Gipfelfläche macht diesen Berg in Afrika leicht erkennbar.</hinweis>
+    <quelle>Julien Carnot, CC BY-SA 2.0 &lt;https://creativecommons.org/licenses/by-sa/2.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_037_tafelberg" />
+    <koordinaten>
+      <longitude>18.4098</longitude>
+      <latitude>-33.9628</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_038">
+    <ort>Taj Mahal</ort>
+    <land>Indien</land>
+    <kategorie>Historisches Bauwerk</kategorie>
+    <hinweis>Symmetrie, heller Stein, eine große Kuppel und weitläufige Gartenanlagen fallen sofort auf.</hinweis>
+    <quelle>© Yann Forget / Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_038_taj_mahal" />
+    <koordinaten>
+      <longitude>78.0421</longitude>
+      <latitude>27.1751</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_039">
+    <ort>Angkor Wat</ort>
+    <land>Kambodscha</land>
+    <kategorie>Religiöser Ort / Archäologie</kategorie>
+    <hinweis>Tempeltürme, Wasserflächen und dichte Vegetation verbinden sich zu einer monumentalen Anlage.</hinweis>
+    <quelle>Jakub Hałun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_039_angkor_wat" />
+    <koordinaten>
+      <longitude>103.867</longitude>
+      <latitude>13.4125</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_040">
+    <ort>Chinesische Mauer, Badaling</ort>
+    <land>China</land>
+    <kategorie>Historisches Bauwerk</kategorie>
+    <hinweis>Eine historische Befestigung folgt über lange Strecken den Höhenzügen mehrerer Berge.</hinweis>
+    <quelle>Photo by CEphoto, Uwe Aranas</quelle>
+    <bild resource="@drawable/klassisch_040_chinesische_mauer_badaling" />
+    <koordinaten>
+      <longitude>116.0169</longitude>
+      <latitude>40.354</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_041">
+    <ort>Shibuya Crossing</ort>
+    <land>Japan</land>
+    <kategorie>Platz / Stadtviertel</kategorie>
+    <hinweis>Fußgänger überqueren eine sehr große Kreuzung gleichzeitig aus mehreren Richtungen.</hinweis>
+    <quelle>Benh LIEU SONG (Flickr), CC BY-SA 2.0 &lt;https://creativecommons.org/licenses/by-sa/2.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_041_shibuya_crossing" />
+    <koordinaten>
+      <longitude>139.7006</longitude>
+      <latitude>35.6595</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_042">
+    <ort>Fushimi Inari Taisha</ort>
+    <land>Japan</land>
+    <kategorie>Religiöser Ort</kategorie>
+    <hinweis>Lange Reihen markanter Torbauten führen durch einen bewaldeten Bereich.</hinweis>
+    <quelle>Marco Almbauer, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_042_fushimi_inari_taisha" />
+    <koordinaten>
+      <longitude>135.7727</longitude>
+      <latitude>34.9671</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_043">
+    <ort>Fuji</ort>
+    <land>Japan</land>
+    <kategorie>Natur</kategorie>
+    <hinweis>Ein nahezu symmetrischer freistehender Vulkankegel dominiert die Umgebung.</hinweis>
+    <quelle>Romain Guy from San Francisco, USA, CC0, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_043_fuji" />
+    <koordinaten>
+      <longitude>138.7274</longitude>
+      <latitude>35.3606</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_044">
+    <ort>Marina Bay</ort>
+    <land>Singapur</land>
+    <kategorie>Stadt / Moderne Architektur</kategorie>
+    <hinweis>Tropische Uferlage und futuristische Hochhausarchitektur treffen hier direkt aufeinander.</hinweis>
+    <quelle>Diego Delso, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_044_marina_bay" />
+    <koordinaten>
+      <longitude>103.8607</longitude>
+      <latitude>1.2834</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_045">
+    <ort>Ha Long Bay</ort>
+    <land>Vietnam</land>
+    <kategorie>Inseln / Küste</kategorie>
+    <hinweis>Zahlreiche steile Kalksteininseln ragen direkt aus ruhigem Wasser empor.</hinweis>
+    <quelle>© Vyacheslav Argenberg, CC BY 4.0 &lt;https://creativecommons.org/licenses/by/4.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_045_ha_long_bay" />
+    <koordinaten>
+      <longitude>107.0437</longitude>
+      <latitude>20.9101</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_046">
+    <ort>Mount Bromo</ort>
+    <land>Indonesien</land>
+    <kategorie>Vulkan / Natur</kategorie>
+    <hinweis>Ein aktiver Vulkankegel liegt inmitten einer weiten vulkanisch geprägten Landschaft.</hinweis>
+    <quelle>Thomas Hirsch (= user Ravn), CC BY-SA 3.0 &lt;http://creativecommons.org/licenses/by-sa/3.0/&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_046_mount_bromo" />
+    <koordinaten>
+      <longitude>112.953</longitude>
+      <latitude>-7.9425</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_047">
+    <ort>Sydney Opera House</ort>
+    <land>Australien</land>
+    <kategorie>Bauwerk</kategorie>
+    <hinweis>Mehrere große segelartig wirkende Dachschalen stehen unmittelbar am Wasser.</hinweis>
+    <quelle>Benh LIEU SONG (Flickr), CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_047_sydney_opera_house" />
+    <koordinaten>
+      <longitude>151.2153</longitude>
+      <latitude>-33.8568</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_048">
+    <ort>Great Ocean Road, Twelve Apostles</ort>
+    <land>Australien</land>
+    <kategorie>Infrastruktur / Küste</kategorie>
+    <hinweis>Steile Klippen und freistehende Felssäulen prägen diese Küstenlandschaft Ozeaniens.</hinweis>
+    <quelle>Dietmar Rabich / Wikimedia Commons / “Princetown (AU), Port Campbell National Park, Twelve Apostles -- 2019 -- 1043” / CC BY-SA 4.0For print products: Dietmar Rabich / https://commons.wikimedia.org/wiki/File:Princetown_(AU),_Port_Campbell_National_Park,_Twelve_Apostles_--_2019_--_1043.jpg / https://creativecommons.org/licenses/by-sa/4.0/</quelle>
+    <bild resource="@drawable/klassisch_048_great_ocean_road_twelve_apostles" />
+    <koordinaten>
+      <longitude>143.1045</longitude>
+      <latitude>-38.6621</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_049">
+    <ort>Uluru</ort>
+    <land>Australien</land>
+    <kategorie>Natur</kategorie>
+    <hinweis>Ein gewaltiger roter Felsmonolith erhebt sich aus einer trockenen Ebene Ozeaniens.</hinweis>
+    <quelle>Dietmar Rabich / Wikimedia Commons / “Petermann Ranges (AU), Uluru-Kata Tjuta National Park, Uluru -- 2019 -- 3704-8” / CC BY-SA 4.0For print products: Dietmar Rabich / https://commons.wikimedia.org/wiki/File:Petermann_Ranges_(AU),_Uluru-Kata_Tjuta_National_Park,_Uluru_--_2019_--_3704-8.jpg / https://creativecommons.org/licenses/by-sa/4.0/</quelle>
+    <bild resource="@drawable/klassisch_049_uluru" />
+    <koordinaten>
+      <longitude>131.0369</longitude>
+      <latitude>-25.3444</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="klassisch_050">
+    <ort>Milford Sound</ort>
+    <land>Neuseeland</land>
+    <kategorie>Fjord / Küste</kategorie>
+    <hinweis>Sehr steile grüne Berge steigen direkt aus einem schmalen Gewässer empor.</hinweis>
+    <quelle>Krzysztof Golik, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/klassisch_050_milford_sound" />
+    <koordinaten>
+      <longitude>167.9256</longitude>
+      <latitude>-44.6716</latitude>
+    </koordinaten>
+  </standort>
+</standorte>

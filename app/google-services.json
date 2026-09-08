@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620293680998",
+    "project_id": "geodyssey-eaf05",
+    "storage_bucket": "geodyssey-eaf05.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620293680998:android:4532c833d5762ab558a2a7",
+        "android_client_info": {
+          "package_name": "com.example.geoguesserapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWx4Un3rOoyqHbk_QdYBKBZ2T9_AcMnEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<standorte typ="historisch" anzahl="31">
+  <standort id="historisch_001">
+    <jahr>-1200</jahr>
+    <ort>Troja, Türkei</ort>
+    <ereignis>Trojanischer Krieg</ereignis>
+    <hinweis>Eine befestigte Stadt in Asien steht im Zentrum einer berühmten antiken Überlieferung.</hinweis>
+    <quelle>Giovanni Domenico Tiepolo, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_001_troja" />
+    <koordinaten>
+      <longitude>26.2389</longitude>
+      <latitude>39.9575</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_002">
+    <jahr>-480</jahr>
+    <ort>Thermopylen, Griechenland</ort>
+    <ereignis>Schlacht bei den Thermopylen</ereignis>
+    <hinweis>Ein sehr enger Geländepunkt machte den Widerstand einer kleinen Streitmacht legendär.</hinweis>
+    <quelle>https://www.meisterdrucke.com/kunstdrucke/Giorgio-Albertini/1551024/Schlacht-bei-den-Thermopylen:-Das-von-Leonidas-I.-befehligte-Heer-der-Spartaner-k%C3%A4mpft-480-v.-Chr.-gegen-die-Griechen-und-gegen-die-Perser..html</quelle>
+    <bild resource="@drawable/historisch_002_thermopylen" />
+    <koordinaten>
+      <longitude>22.5367</longitude>
+      <latitude>38.7967</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_003">
+    <jahr>-44</jahr>
+    <ort>Rom, Italien</ort>
+    <ereignis>Ermordung Julius Caesars</ereignis>
+    <hinweis>Eine der mächtigsten politischen Persönlichkeiten der Antike wurde Opfer eines Attentats.</hinweis>
+    <quelle>Vincenzo Camuccini, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_003_rom_caesar" />
+    <koordinaten>
+      <longitude>12.4768</longitude>
+      <latitude>41.8956</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_004">
+    <jahr>-30</jahr>
+    <ort>Alexandria, Ägypten</ort>
+    <ereignis>Tod von Kleopatra VII.</ereignis>
+    <hinweis>Mit dem Tod einer berühmten Herrscherin endete eine bedeutende antike Dynastie in Afrika.</hinweis>
+    <quelle>Daniel Martin, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_004_alexandria_kleopatra" />
+    <koordinaten>
+      <longitude>29.9187</longitude>
+      <latitude>31.2001</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_005">
+    <jahr>79</jahr>
+    <ort>Pompeji, Italien</ort>
+    <ereignis>Ausbruch des Vesuvs und Untergang Pompejis</ereignis>
+    <hinweis>Ein plötzlicher Vulkanausbruch begrub eine ganze antike Stadt.</hinweis>
+    <quelle>Carlo Sanquirico (active 1820s–1830s) after Alessandro Sanquirico (1777–1849), Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_005_pompeji_vesuv" />
+    <koordinaten>
+      <longitude>14.4869</longitude>
+      <latitude>40.7508</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_006">
+    <jahr>476</jahr>
+    <ort>Ravenna, Italien</ort>
+    <ereignis>Absetzung Romulus Augustulus und Ende des Weströmischen Reiches</ereignis>
+    <hinweis>Die Absetzung eines jungen Kaisers gilt traditionell als Ende des Weströmischen Reiches.</hinweis>
+    <quelle>generiert</quelle>
+    <bild resource="@drawable/historisch_006_ravenna_romulus_augustulus" />
+    <koordinaten>
+      <longitude>12.1964</longitude>
+      <latitude>44.4184</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_007">
+    <jahr>439</jahr>
+    <ort>Karthago, Tunesien</ort>
+    <ereignis>Vandalen erobern Karthago</ereignis>
+    <hinweis>Eine bedeutende Hafenstadt in Afrika geriet unter die Kontrolle einer wandernden germanischen Gruppe.</hinweis>
+    <quelle>https://www.welt.de/kultur/gallery13417457/Vandalen-ihr-Zug-ihr-Reich-ihr-Untergang.html</quelle>
+    <bild resource="@drawable/historisch_007_karthago_vandalen" />
+    <koordinaten>
+      <longitude>10.3233</longitude>
+      <latitude>36.8528</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_008">
+    <jahr>711</jahr>
+    <ort>Gibraltar</ort>
+    <ereignis>Beginn der muslimischen Eroberung der Iberischen Halbinsel</ereignis>
+    <hinweis>Von hier aus begann im frühen Mittelalter eine weitreichende politische und kulturelle Expansion nach Europa.</hinweis>
+    <quelle>Mariano Barbasán Lagueruela, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_008_gibraltar_iberische_eroberung" />
+    <koordinaten>
+      <longitude>-5.3536</longitude>
+      <latitude>36.1408</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_009">
+    <jahr>793</jahr>
+    <ort>Lindisfarne, England</ort>
+    <ereignis>Wikingerüberfall auf Lindisfarne</ereignis>
+    <hinweis>Ein Überfall von See gilt symbolisch als Beginn einer neuen Epoche europäischer Geschichte.</hinweis>
+    <quelle>https://www.medievalware.com/wp-content/uploads/2023/09/viking-raid-monastery.jpg</quelle>
+    <bild resource="@drawable/historisch_009_lindisfarne_wikinger" />
+    <koordinaten>
+      <longitude>-1.8017</longitude>
+      <latitude>55.6699</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_010">
+    <jahr>800</jahr>
+    <ort>Rom, Italien</ort>
+    <ereignis>Kaiserkrönung Karls des Großen</ereignis>
+    <hinweis>Ein frühmittelalterlicher Herrscher erhielt in Europa die Kaiserwürde.</hinweis>
+    <quelle>Friedrich Kaulbach, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_010_rom_karls_kroenung" />
+    <koordinaten>
+      <longitude>12.4539</longitude>
+      <latitude>41.9022</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_011">
+    <jahr>1683</jahr>
+    <ort>Wien, Österreich</ort>
+    <ereignis>Zweite Wiener Türkenbelagerung</ereignis>
+    <hinweis>Eine große Belagerung machte die Stadt im Zentrum Europas zum Schauplatz eines entscheidenden Konflikts zwischen zwei Reichen.</hinweis>
+    <quelle>Frans Geffels, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_011_wien_tuerkenbelagerung" />
+    <koordinaten>
+      <longitude>16.3725</longitude>
+      <latitude>48.2089</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_012">
+    <jahr>1099</jahr>
+    <ort>Jerusalem</ort>
+    <ereignis>Eroberung Jerusalems im Ersten Kreuzzug</ereignis>
+    <hinweis>Ein religiös motivierter Feldzug erreichte hier seinen militärischen Höhepunkt in Asien.</hinweis>
+    <quelle>Émile Signol, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_012_jerusalem_kreuzzug" />
+    <koordinaten>
+      <longitude>35.2354</longitude>
+      <latitude>31.778</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_013">
+    <jahr>1204</jahr>
+    <ort>Konstantinopel, heutiges Istanbul</ort>
+    <ereignis>Eroberung Konstantinopels im Vierten Kreuzzug</ereignis>
+    <hinweis>Eine bedeutende christliche Kaiserstadt wurde während eines Kreuzzugs erobert und geplündert.</hinweis>
+    <quelle>Palma Le Jeune (1544–1620), Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_013_konstantinopel" />
+    <koordinaten>
+      <longitude>28.9802</longitude>
+      <latitude>41.0086</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_014">
+    <jahr>1492</jahr>
+    <ort>San Salvador, Bahamas</ort>
+    <ereignis>Kolumbus erreicht die Karibik</ereignis>
+    <hinweis>Die Ankunft einer europäischen Expedition in Nordamerika veränderte die Geschichte mehrerer Kontinente dauerhaft.</hinweis>
+    <quelle>Lithografie von 1846: Die Landung von Kolumbus Universal History Archive / Getty Images</quelle>
+    <bild resource="@drawable/historisch_014_san_salvador_kolumbus" />
+    <koordinaten>
+      <longitude>-74.493</longitude>
+      <latitude>24.06</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_015">
+    <jahr>1666</jahr>
+    <ort>London, England</ort>
+    <ereignis>Großer Brand von London</ereignis>
+    <hinweis>Ein Großbrand zerstörte innerhalb weniger Tage weite Teile einer dicht bebauten Metropole.</hinweis>
+    <quelle>London Museum, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_015_london_brand" />
+    <koordinaten>
+      <longitude>-0.0877</longitude>
+      <latitude>51.5101</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_016">
+    <jahr>1773</jahr>
+    <ort>Boston, USA</ort>
+    <ereignis>Boston Tea Party</ereignis>
+    <hinweis>Ein spektakulärer Protest gegen Steuern und wirtschaftliche Kontrolle wurde zu einem politischen Symbol.</hinweis>
+    <quelle>Nathaniel Currier, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_016_boston_tea_party" />
+    <koordinaten>
+      <longitude>-71.0513</longitude>
+      <latitude>42.3533</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_017">
+    <jahr>1776</jahr>
+    <ort>Philadelphia, USA</ort>
+    <ereignis>Unabhängigkeitserklärung der USA</ereignis>
+    <hinweis>Ein politisches Dokument erklärte die Loslösung mehrerer Kolonien von ihrer bisherigen Herrschaft.</hinweis>
+    <quelle>John Trumbull, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_017_philadelphia_unabhaengigkeit" />
+    <koordinaten>
+      <longitude>-75.15</longitude>
+      <latitude>39.9489</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_018">
+    <jahr>1791</jahr>
+    <ort>Cap-Haïtien, Haiti</ort>
+    <ereignis>Beginn der Haitianischen Revolution</ereignis>
+    <hinweis>Ein Aufstand versklavter Menschen entwickelte sich zur einzigen erfolgreichen Sklavenrevolution der Geschichte und führte später zur Unabhängigkeit Haitis.</hinweis>
+    <quelle>Karl Girardet, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_018_cap_haitien_revolution" />
+    <koordinaten>
+      <longitude>-72.2</longitude>
+      <latitude>19.7594</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_019">
+    <jahr>1804</jahr>
+    <ort>Paris, Frankreich</ort>
+    <ereignis>Krönung Napoleons zum Kaiser</ereignis>
+    <hinweis>Ein erfolgreicher Militärführer machte seinen politischen Aufstieg mit einer Kaiserkrönung sichtbar.</hinweis>
+    <quelle>Jacques-Louis David, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_019_paris_napoleon" />
+    <koordinaten>
+      <longitude>2.3499</longitude>
+      <latitude>48.853</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_020">
+    <jahr>1813</jahr>
+    <ort>Leipzig, Deutschland</ort>
+    <ereignis>Völkerschlacht bei Leipzig</ereignis>
+    <hinweis>Die letzte Schlacht eines der größten europäischen Feldherren der Geschichte</hinweis>
+    <quelle>Vladimir Moshkov, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_020_leipzig_voelkerschlacht" />
+    <koordinaten>
+      <longitude>12.413</longitude>
+      <latitude>51.3122</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_021">
+    <jahr>1903</jahr>
+    <ort>Kill Devil Hills, USA</ort>
+    <ereignis>Erster Motorflug der Brüder Wright</ereignis>
+    <hinweis>Ein kurzer kontrollierter Motorflug bewies erstmals die praktische Funktionsfähigkeit eines neuen Verkehrsmittels.</hinweis>
+    <quelle>John T. Daniels, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_021_kill_devil_hills_wright" />
+    <koordinaten>
+      <longitude>-75.6674</longitude>
+      <latitude>36.014</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_022">
+    <jahr>1912</jahr>
+    <ort>Nordatlantik</ort>
+    <ereignis>Untergang der Titanic</ereignis>
+    <hinweis>Ein großes Passagierschiff sank während seiner ersten Reise über den Atlantik.</hinweis>
+    <quelle>Willy Stöwer, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_022_nordatlantik_titanic" />
+    <koordinaten>
+      <longitude>-49.9469</longitude>
+      <latitude>41.7325</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_023">
+    <jahr>1914</jahr>
+    <ort>Sarajevo, Bosnien und Herzegowina</ort>
+    <ereignis>Attentat auf Franz Ferdinand</ereignis>
+    <hinweis>Ein Attentat löste eine internationale Krise aus, die kurz darauf in einen großen Krieg mündete.</hinweis>
+    <quelle>Achille Beltrame, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_023_sarajevo_attentat" />
+    <koordinaten>
+      <longitude>18.4288</longitude>
+      <latitude>43.8579</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_024">
+    <jahr>1929</jahr>
+    <ort>New York City, USA</ort>
+    <ereignis>Börsencrash an der Wall Street</ereignis>
+    <hinweis>Ein dramatischer Einbruch an den Finanzmärkten wurde zum Symbol einer weltweiten Wirtschaftskrise.</hinweis>
+    <quelle>National Archives Photo, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_024_new_york_wall_street" />
+    <koordinaten>
+      <longitude>-74.0113</longitude>
+      <latitude>40.7069</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_025">
+    <jahr>1937</jahr>
+    <ort>Lakehurst, USA</ort>
+    <ereignis>Hindenburg Katastrophe</ereignis>
+    <hinweis>Ein großes Luftschiff geriet während des Landevorgangs in Brand und wurde zum Sinnbild für das Ende einer Ära.</hinweis>
+    <quelle>Murray Becker, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_025_lakehurst_hindenburg" />
+    <koordinaten>
+      <longitude>-74.3259</longitude>
+      <latitude>40.0306</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_026">
+    <jahr>1941</jahr>
+    <ort>Pearl Harbor, Hawaii, USA</ort>
+    <ereignis>Angriff auf Pearl Harbor</ereignis>
+    <hinweis>Ein überraschender Luftangriff auf einen bedeutenden Militärstützpunkt veränderte den Verlauf eines Weltkriegs.</hinweis>
+    <quelle>USN, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_026_pearl_harbor" />
+    <koordinaten>
+      <longitude>-157.95</longitude>
+      <latitude>21.3649</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_027">
+    <jahr>1944</jahr>
+    <ort>Omaha Beach, Normandie, Frankreich</ort>
+    <ereignis>Landung in der Normandie</ereignis>
+    <hinweis>Eine groß angelegte amphibische Landungsoperation eröffnete einen wichtigen neuen Kriegsschauplatz in Europa.</hinweis>
+    <quelle>National Archives and Records Administration, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_027_omaha_beach_normandie" />
+    <koordinaten>
+      <longitude>-0.8711</longitude>
+      <latitude>49.3697</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_028">
+    <jahr>1945</jahr>
+    <ort>Hiroshima, Japan</ort>
+    <ereignis>Atombombenabwurf auf Hiroshima</ereignis>
+    <hinweis>Zum ersten Mal wurde eine neuartige Waffe mit enormer Zerstörungskraft im Krieg gegen eine Stadt eingesetzt.</hinweis>
+    <quelle>Lieutenant R.J. Battersby, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_028_hiroshima_atombombe" />
+    <koordinaten>
+      <longitude>132.4547</longitude>
+      <latitude>34.3947</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_029">
+    <jahr>1963</jahr>
+    <ort>Dallas, USA</ort>
+    <ereignis>Ermordung John F. Kennedys</ereignis>
+    <hinweis>Ein amtierendes Staatsoberhaupt wurde während einer Fahrt durch eine Großstadt tödlich getroffen.</hinweis>
+    <quelle>Walt Cisco, Dallas Morning News, Public domain, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_029_dallas_jfk" />
+    <koordinaten>
+      <longitude>-96.8087</longitude>
+      <latitude>32.779</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_030">
+    <jahr>1986</jahr>
+    <ort>Tschernobyl, Ukraine</ort>
+    <ereignis>Reaktorkatastrophe von Tschernobyl</ereignis>
+    <hinweis>Ein fehlgeschlagener Test in einem Kernreaktor führte zu einer der schwersten technischen Katastrophen Europas.</hinweis>
+    <quelle>IAEA Imagebank, CC BY-SA 2.0 &lt;https://creativecommons.org/licenses/by-sa/2.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_030_tschernobyl" />
+    <koordinaten>
+      <longitude>30.099</longitude>
+      <latitude>51.389</latitude>
+    </koordinaten>
+  </standort>
+  <standort id="historisch_031">
+    <jahr>1989</jahr>
+    <ort>Berlin, Deutschland</ort>
+    <ereignis>Fall der Berliner Mauer</ereignis>
+    <hinweis>Die Öffnung einer jahrzehntelang streng kontrollierten Grenze wurde zum Symbol für das Ende einer politischen Teilung.</hinweis>
+    <quelle>Lear 21 at English Wikipedia, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons</quelle>
+    <bild resource="@drawable/historisch_031_berlin_mauerfall" />
+    <koordinaten>
+      <longitude>13.3987</longitude>
+      <latitude>52.5547</latitude>
+    </koordinaten>
+  </standort>
+</standorte>
