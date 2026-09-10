@@ -368,8 +368,8 @@
     <quelle>Lear 21 at English Wikipedia, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons</quelle>
     <bild resource="@drawable/historisch_031_berlin_mauerfall" />
     <koordinaten>
-      <longitude>13.3987</longitude>
-      <latitude>52.5547</latitude>
+      <longitude>13.3777</longitude>
+      <latitude>52.5163</latitude>
     </koordinaten>
   </standort>
 </standorte>

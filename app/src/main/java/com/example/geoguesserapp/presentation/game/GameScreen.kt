@@ -4,10 +4,8 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.navigationBarsPadding
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.statusBarsPadding
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
@@ -24,11 +22,10 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.example.geoguesserapp.R
 import com.example.geoguesserapp.domain.model.GameMode
 import com.example.geoguesserapp.presentation.components.GeOdysseyFullscreenImage
+import com.example.geoguesserapp.presentation.game.components.GameActionSection
 import com.example.geoguesserapp.presentation.game.components.GameHeader
-import com.example.geoguesserapp.presentation.game.components.GameHintSection
 import com.example.geoguesserapp.presentation.game.components.GameImageCard
 import com.example.geoguesserapp.presentation.game.components.GameMapSection
-import com.example.geoguesserapp.presentation.game.components.GameSubmitButton
 import com.example.geoguesserapp.presentation.game.components.HistoricalYearInput
 import com.example.geoguesserapp.ui.theme.GeOdysseyNavy
 import com.example.geoguesserapp.util.Constants
@@ -165,55 +162,21 @@ fun GameScreen(
             }
         )
 
-        if (uiState.hintUsed) {
-
-            // Nach Verwendung des Hints benötigt der Hinweistext die volle Breite.
-            // Der Submit Button wird deshalb direkt darunter angezeigt.
-            GameHintSection(
-                hintUsed = true,
-                hint = currentLocation.hint,
-                hintPenalty = Constants.HINT_PENALTY,
-                onUseHint = {
-                    gameViewModel.useHint()
-                }
-            )
-
-            GameSubmitButton(
-                enabled = canSubmitGuess,
-                onSubmit = {
-                    gameViewModel.submitGuess()
-                },
-                modifier = Modifier.fillMaxWidth()
-            )
-        } else {
-
-            // Solange noch kein Hint verwendet wurde,
-            // werden Hint und Guess bestätigen direkt nebeneinander angezeigt.
-            Row(
-                modifier = Modifier.fillMaxWidth(),
-                horizontalArrangement = Arrangement.spacedBy(12.dp)
-            ) {
-                GameHintSection(
-                    hintUsed = false,
-                    hint = currentLocation.hint,
-                    hintPenalty = Constants.HINT_PENALTY,
-                    onUseHint = {
-                        gameViewModel.useHint()
-                    },
-                    modifier = Modifier.weight(1f)
-                )
-
-                // Der Guess kann deaktiviert sein,
-                // solange Standort oder historisches Jahr noch fehlen.
-                GameSubmitButton(
-                    enabled = canSubmitGuess,
-                    onSubmit = {
-                        gameViewModel.submitGuess()
-                    },
-                    modifier = Modifier.weight(1f)
-                )
+        // Bündelt die beiden Spielaktionen Hint und Guess bestätigen.
+        // Der Screen liefert nur Zustand und Aktionen,
+        // die genaue Anordnung liegt in der ausgelagerten Component.
+        GameActionSection(
+            hintUsed = uiState.hintUsed,
+            hint = currentLocation.hint,
+            hintPenalty = Constants.HINT_PENALTY,
+            canSubmitGuess = canSubmitGuess,
+            onUseHint = {
+                gameViewModel.useHint()
+            },
+            onSubmitGuess = {
+                gameViewModel.submitGuess()
             }
-        }
+        )
 
         if (uiState.gameMode == GameMode.HISTORICAL) {
             HistoricalYearInput(

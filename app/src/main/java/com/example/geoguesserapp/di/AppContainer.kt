@@ -25,18 +25,23 @@ import com.google.firebase.firestore.FirebaseFirestore
 class AppContainer(context: Context) {
 
     // Erstellt den Zugriff auf die beiden Standort XML Dateien.
+    // Diese DataSource kennt die Android Resources und liest daraus die Standortlisten.
     private val locationXmlDataSource = LocationXmlDataSource(context)
 
     // Stellt Firebase Authentication bereit.
+    // Darüber bekommt jedes Gerät beziehungsweise jeder anonyme Nutzer eine eigene UID.
     private val firebaseAuth = FirebaseAuth.getInstance()
 
     // Stellt den Zugriff auf Cloud Firestore bereit.
+    // Firestore ist die einzige Datenquelle für das Leaderboard.
     private val firestore = FirebaseFirestore.getInstance()
 
     // Verbindet die XML DataSource mit dem Standort Repository.
+    // Die Domain Schicht arbeitet dadurch nur mit dem Interface.
     val locationRepository: LocationRepository = LocationRepositoryImpl(locationXmlDataSource)
 
     // Stellt die Firebase Auth Logik über unsere manuelle Dependency Injection bereit.
+    // Die AuthRepository Schnittstelle versteckt die konkrete Firebase Klasse.
     val authRepository: AuthRepository = FirebaseAuthRepository(firebaseAuth)
 
     // Verwendet für das Leaderboard Cloud Firestore.
@@ -47,23 +52,30 @@ class AppContainer(context: Context) {
         )
 
     // Stellt das Repository für den lokal gespeicherten Spielernamen bereit.
+    // Diese lokale Speicherung betrifft nur den Namen und nicht mehr das Leaderboard.
     val playerRepository: PlayerRepository = LocalPlayerRepository(context)
 
     // Erstellt die zufällige Auswahl der 5 Standorte.
+    // Der Use Case kapselt, welche Liste für welchen Modus verwendet wird.
     val getRandomLocationsUseCase = GetRandomLocationsUseCase(locationRepository)
 
     // Erstellt die Berechnung der Entfernung zwischen zwei Koordinaten.
+    // Diese Berechnung wird für beide Spielmodi benötigt.
     val calculateDistanceUseCase = CalculateDistanceUseCase()
 
     // Erstellt die Berechnung der Standortpunkte.
+    // Die konkreten Maximalpunkte unterscheiden sich je nach Spielmodus.
     val calculateLocationPointsUseCase = CalculateLocationPointsUseCase()
 
     // Erstellt die Zeitpunkte für den klassischen Modus.
+    // Im historischen Modus gibt es keine Zeitwertung.
     val calculateTimePointsUseCase = CalculateTimePointsUseCase()
 
     // Erstellt die Jahrespunkte für den historischen Modus.
+    // Im klassischen Modus wird dieser Use Case nicht verwendet.
     val calculateYearPointsUseCase = CalculateYearPointsUseCase()
 
     // Erstellt die Gesamtpunktzahl eines Guesses.
+    // Hier werden Standortpunkte, Zeitpunkte, Jahrespunkte und Hint Abzug zusammengeführt.
     val calculateTotalPointsUseCase = CalculateTotalPointsUseCase()
 }

@@ -5,13 +5,20 @@ package com.example.geoguesserapp.domain.model
 
 data class HistoricalLocation(
 
+    // Gemeinsame Standortdaten.
     override val id: String, // Speichert die eindeutige ID des Standorts.
     override val name: String, // Speichert den Namen des Ortes.
+
+    // Zusätzliche Informationen für den historischen Modus.
     val event: String, // Speichert das historische Ereignis, das auf dem Bild dargestellt wird.
     val year: Int, // Speichert das Jahr. Negative Werte stehen für Jahre vor Christus.
+
+    // Anzeige- und Hilfsdaten für den Guess.
     override val hint: String, // Speichert den Hinweis für den Spieler.
     override val source: String, // Speichert die Quelle des Bildes.
-    override val imageResId: Int, // Speichert den Namen der Bildressource.
+    override val imageResId: Int, // Speichert die Android Ressourcen ID der Bildressource.
+
+    // Richtige Kartenposition des Standorts.
     override val longitude: Double, // Speichert den Längengrad des Standorts.
     override val latitude: Double // Speichert den Breitengrad des Standorts.
 ) : GameLocation

@@ -48,6 +48,8 @@ import com.example.geoguesserapp.ui.theme.GeOdysseyWhite
 fun StartScreen(
     onContinue: (String) -> Unit
 ) {
+    // Speichert die aktuelle Eingabe des Spielernamens.
+    // Der Name wird erst beim Klick auf Weiter an das ViewModel übergeben.
     var playerName by remember {
         mutableStateOf("")
     }
@@ -99,6 +101,9 @@ fun StartScreen(
         OutlinedTextField(
             value = playerName,
             onValueChange = {
+                // Die Eingabe bleibt zunächst unverändert im lokalen Screen State.
+                // Dadurch kann der Nutzer seinen Namen noch korrigieren,
+                // bevor er dauerhaft gespeichert wird.
                 playerName = it
             },
             modifier = Modifier.fillMaxWidth(),
@@ -128,12 +133,16 @@ fun StartScreen(
         // Orange kennzeichnet entsprechend dem UX Konzept die wichtigste Aktion.
         Button(
             onClick = {
+                // Entfernt Leerzeichen am Anfang und Ende des Namens.
+                // So wird zum Beispiel " David " als "David" gespeichert.
                 val cleanPlayerName = playerName.trim()
 
                 if (cleanPlayerName.isNotBlank()) {
                     onContinue(cleanPlayerName)
                 }
             },
+            // Der Button ist nur aktiv, wenn überhaupt Text eingegeben wurde.
+            // Die zusätzliche Prüfung im onClick verhindert reine Leerzeichen.
             enabled = playerName.isNotBlank(),
             modifier = Modifier
                 .fillMaxWidth()
